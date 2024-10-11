@@ -5,8 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alangreyjoy" alt="alangreyjoy" /></a> </p>
 
+- 🔭 I’m currently working on [Santa's Hackathon](https://santashackathon.com)
+
+- 📫 How to reach me **alanspurlock@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/alan-s-6a57a8180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-s-6a57a8180" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
